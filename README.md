@@ -1,4 +1,4 @@
 # Sateesh
 Code
 Computer Science and Engineering
-Artificial Engineering
+Artificial intelligence
